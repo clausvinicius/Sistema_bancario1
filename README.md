@@ -12,5 +12,5 @@ Este é o desafio 1 da Dio para criação de um sistema bancario simples
 https://github.com/clausvinicius)
 
 ##
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clausvinicius&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=clausvinicius&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=clausvinicius&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clausvinicius&layout=compact&theme=radical)](https://github.com/clausvinicius/github-readme-stats)
